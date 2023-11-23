@@ -1,0 +1,21 @@
+.clock{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    /* min-width: 250px; */
+}
+
+.clock h2{
+    border: 2px solid lightblue;
+    border-radius: 10px;
+    min-width: 110px;
+    font-size: larger;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(30, 87, 68);
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+h1{
+    color: white;
+}
