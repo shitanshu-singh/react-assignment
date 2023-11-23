@@ -1,4 +1,4 @@
-# React Assignment for TechMint
+# React Assignment for TeachMint
 
 
 To get Started
