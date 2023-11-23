@@ -42,7 +42,7 @@ const Clock = ({ time }) => {
         {seconds < 10 ? "0" + seconds : seconds}
       </h2>
       <Button variant="outlined" onClick={playPause}>
-        Pause/Play
+        Pause/Start
       </Button>
     </div>
   );
