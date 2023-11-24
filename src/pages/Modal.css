@@ -31,7 +31,7 @@ body.active-modal {
     background: rgb(247 247 136);
     color: black;
     padding: 14px 28px;
-    border-radius: 3px;
+    border-radius: 10px;
     max-width: 600px;
     min-width: 300px;
 }
